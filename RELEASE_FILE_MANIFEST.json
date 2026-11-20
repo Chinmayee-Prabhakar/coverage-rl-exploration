@@ -1,0 +1,39 @@
+{
+  "release_kind": "archival documentation only",
+  "source_code_included": false,
+  "artifacts_included": false,
+  "files": {
+    ".gitattributes": {
+      "sha256": "29e6cce758a485a2ef33167d409a0e6817e5f816521beca701f0a1ee7112d371",
+      "bytes": 85
+    },
+    ".gitignore": {
+      "sha256": "1088cd90481b756d69ba745e718959a5a291442bd89b5996d6ff1cd5ff2585aa",
+      "bytes": 353
+    },
+    "README.md": {
+      "sha256": "94f9c3a0dd7ac3c94db0c4f81f38b7271b19c3c8514d0bcb86d6534a746d91f0",
+      "bytes": 5107
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "sha256": "d6e145d1b31ff24675182e6ff159add7c3bf80d3b43946e27d5e74d4d77c10f5",
+      "bytes": 2254
+    },
+    "docs/FINDINGS_AND_LIMITATIONS.md": {
+      "sha256": "1d62902bc82b7a2e0a2d5fa5e1090d0979c2115cc7edb80a205853206423289a",
+      "bytes": 3385
+    },
+    "docs/METHODS_AND_VARIANTS.md": {
+      "sha256": "37723b32533a806b8f936c24f821f8df8259b5c8502841abdb6d0905b731d48e",
+      "bytes": 4639
+    },
+    "docs/PROVENANCE.md": {
+      "sha256": "669a5df9e8942d5c2754aa862fd65fc450a42eb8fd4a94c0bc089b29a39d901c",
+      "bytes": 4600
+    },
+    "docs/RELEASE_BOUNDARY.md": {
+      "sha256": "8e3c4805f514b8aa071012a7919f8b3d93421beb8bce21c6f228dd7cf9f51711",
+      "bytes": 2065
+    }
+  }
+}
