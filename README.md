@@ -1,10 +1,8 @@
 # Reinforcement Learning for Coverage Path Planning
 
-**Graduate research exploration · 2023–2024 **
-
 I investigated whether reinforcement-learning policies could learn efficient area coverage when given information about where an agent had already traveled. The original motivation was cooperative search and coverage by multiple UAVs. 
 
-**Outcome:** the policies did **not** achieve satisfactory coverage. The experience highlighted the difficulty of specifying useful observations and rewards for a long-horizon exploration task. This repository documents the attempted approaches and their limitations.
+**Outcome:** the policies did not achieve satisfactory coverage. The experience highlighted the difficulty of specifying useful observations and rewards for a long-horizon exploration task. This repository documents the attempted approaches and their limitations.
 
 ## What I explored
 
