@@ -19,7 +19,7 @@ The historical workspace combined publicly available MADDPG/PyTorch and Multi-Ag
 
 The conceptual investigation was motivated by multi-agent actor–critic methods.
 
-## What is—and is not—in this repository
+## What is in this repository
 
 This is a **documentation-only, permission-conscious archival release**:
 
